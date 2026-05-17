@@ -1,6 +1,6 @@
 # Preciser
-编程语言：***易语言***
-此程序为Preciser，原名ScreenCrosshair，由Just.Joker制作，程序代码***履行GPLV3开源协议***
+编程语言：**易语言**
+此程序为Preciser，原名ScreenCrosshair，由Just.Joker制作，程序代码**履行GPLV3开源协议**
 求求各位点个Star！！！！！！！！！！！！！！！！！
 
 项目官网：https://rtcrh.com
@@ -8,8 +8,8 @@
 此源码最后更新日期：2026.5.17
 仅供学习交流，在此抛砖引玉，希望各位大佬能借此微码各显神通，为开源社区和游戏社区做出更伟大的贡献!!
 
-Programming Language: * * * EPL***
-This program is Precise, originally named ScreenCrosshair, created by Just. Joker. The program code * * complies with the GPLV3 open source license***
+Programming Language: **EPL**
+This program is Precise, originally named ScreenCrosshair, created by Just. Joker. The program code **complies with the GPLV3 open source license**
 Please order a Star!!!!!!!!!!!!!!!!!
 
 Project official website: https://rtcrh.com
