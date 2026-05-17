@@ -1,7 +1,6 @@
 # Preciser
 编程语言：***易语言***
 此程序为Preciser，原名ScreenCrosshair，由Just.Joker制作，程序代码***履行GPLV3开源协议***
-开源地址：
 求求各位点个Star！！！！！！！！！！！！！！！！！
 ---------以下列举协议部分内容---------
 传染性：这是GPLv3.0最显著的特点。任何基于GPLv3.0软件开发的衍生作品，都必须遵循GPLv3.0的条款进行分发。这意味着，即使你在开源软件的基础上进行了修改或增强，你的作品也必须保持开源，并允许他人自由使用、修改和分发。
@@ -22,7 +21,6 @@
 
 Programming Language: * * * EPL***
 This program is Precise, originally named ScreenCrosshair, created by Just. Joker. The program code * * complies with the GPLV3 open source license***
-Open source address:
 Please order a Star!!!!!!!!!!!!!!!!!
 The following are some of the contents of the agreement---------
 Infectious: This is the most prominent feature of GPLv3.0. Any derivative works developed based on GPLv3.0 software must be distributed in accordance with the terms of GPLv3.0. This means that even if you make modifications or enhancements to open source software, your work must remain open source and allow others to freely use, modify, and distribute it.
