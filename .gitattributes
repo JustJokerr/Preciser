@@ -1,1 +1,2 @@
-*.e linguist-language=E-language
+*.e linguist-language=EPL
+search/Preciser.e linguist-generated
